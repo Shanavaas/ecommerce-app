@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.shanavaas123.ecommerceapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
